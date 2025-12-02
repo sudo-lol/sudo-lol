@@ -14,49 +14,6 @@ Building small automation systems and security-focused tools trying to make tech
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudo-lol&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-<div align="center">
-
-  <p style="font-size:20px; font-weight:600; margin-bottom:8px;">
-    🪄 Random Dev Quote
-  </p>
-
-  <div style="
-      background:#020617;
-      border-radius:16px;
-      padding:24px 32px;
-      border:1px solid #111827;
-      max-width:420px;
-      text-align:center;
-      box-shadow:0 0 20px rgba(0,0,0,0.45);
-  ">
-
-    <p style="font-size:40px; margin:0; color:#22c55e; line-height:0.6;">“</p>
-
-    <p style="
-        color:#22c55e;
-        font-size:16px;
-        font-weight:500;
-        margin:8px 0 8px 0;
-    ">
-      I have yet to see any problem, however complicated, which when looked at
-      in the right way, did not become more complicated.
-    </p>
-
-    <p style="font-size:40px; margin:0; color:#22c55e; line-height:0.6;">”</p>
-
-    <p style="
-        margin-top:12px;
-        color:#facc15;
-        font-style:italic;
-        font-size:14px;
-    ">
-      - Poul Anderson
-    </p>
-
-  </div>
-
-</div>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudo-lol&icon=1&color=0)](https://visitcount.itsvg.in)
